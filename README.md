@@ -17,5 +17,5 @@ Habilidades: JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=libertadlorda)  
 
-![Profile views](https://gpvc.arturio.dev/libertadlorda)  
+
 
