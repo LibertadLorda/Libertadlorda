@@ -3,7 +3,7 @@
 Me encanta aprender cosas nuevas, conocer lugares y personas!✨
 
 
-Habilidades: JS / HTML / CSS
+Habilidades: JS / HTML / CSS / VUE / JAVA / TEST
 
 
 - 🌱 Estoy aprendiendo Fullstack Developer in Factoria F5 
